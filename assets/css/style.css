@@ -1,0 +1,297 @@
+a.navbar-brand img {
+    max-width: 192px;
+}
+
+.nav-item .nav-link {
+    color: #555555;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+
+.common_btn {
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ff0000;
+    border-radius: 30px;
+    width: 209px;
+    height: 49px;
+    box-shadow: 0px 7px 25px 0px rgba(123, 104, 238, 0.25);
+    overflow: hidden;
+    text-decoration: unset;
+}
+.common_btn_white {
+    color: #ff0000;
+    text-align: center;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 30px;
+    width: 209px;
+    box-shadow: 0px 7px 25px 0px rgba(123, 104, 238, 0.25);
+    text-decoration: unset;
+}
+header{
+    top: 0;
+    position: sticky;
+    background: #ffffff;
+    box-shadow: 0px 2px 28px 0px rgba(0, 0, 0, 0.06);
+    padding: 10px 0;
+}
+.left_banner h4{
+    color: #ff0000;
+    text-align: left; 
+    font-size: 16px;
+    line-height: 22.4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+
+}
+.left_banner h1{
+    color: #333333;
+    font-size: 50px;
+    line-height: 70px;
+    font-weight: 700; 
+}
+.left_banner h1 span{
+    color: #ff0000;
+}
+
+
+.left_banner  p{
+    color: #333333;
+    font-size: 17px;
+    line-height: 30.6px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+.banner_buttons {
+    display: flex;
+}
+.banner_buttons a {
+    margin-right: 20px;
+}
+.banner {
+    padding: 60px 0;
+    background-image: url(../images/avology_banner.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h3{
+    color: #ff0000;
+    text-align: center;
+    font-size: 16px;
+    line-height: 22.4px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+h2{
+    color: #404040;
+    text-align: center;
+    font-size: 40px;
+    line-height: 56px;
+    font-weight: 700;
+}
+
+.padding_s{
+padding:80px 0;
+}
+
+.service_card h5{
+    color: #212529;
+    text-align: left;
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 700;
+}
+.service_card p{
+    color: #5f5f5f;
+    text-align: left;
+    font-size: 16px;
+    line-height: 28.8px;
+    font-weight: 400;
+    margin: 12px 0;
+    
+}
+.service_card .card_btn a {
+    color: #ff0000;
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+.service_card .card_btn a img{
+    width: 14px;
+    margin-right: 8px;
+}
+.service_img {
+    margin-bottom: 24px;
+}
+.service_card {
+    background: #ffffff;
+    border-radius: 3px;
+    box-shadow: 5px 7px 15px 2px rgba(82, 90, 101, 0.12);
+    padding: 30px 20px;
+}
+
+.right_choose_us h4 {
+    color: #ff0000;
+    text-align: left;
+    font-size: 16px;
+    line-height: 22.4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+.right_choose_us h2{
+    color: #404040;
+    text-align: left;
+    font-size: 38px;
+    line-height: 53.2px;
+    font-weight: 700;
+}
+
+.right_choose_us p{
+    color: #5f5f5f;
+    text-align: left;
+    font-size: 16px;
+    line-height: 28.8px;
+    font-weight: 400;
+    margin: 20px 0;
+}
+
+.choose_us_list p{
+    background: #ffffff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #ff0000;
+    border-width: 0px 0px 0px 2px;
+    height: 52px;
+    box-shadow: -1px 3px 20px 0px rgba(82, 90, 101, 0.1);
+    display: flex;
+    align-items: center;
+    color: #404040;
+    text-align: left;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+    padding-left: 15px;
+}
+.why_choose_us {
+    background: #FFF5F5;
+}
+.our_solutions_lanq .lanquage_card {
+    justify-content: center;
+    background: #ffffff;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    height: 95px;
+    box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.07);
+}
+.our_solutions_lanq .lanquage_card  p {
+    color: #505050;
+    font-size: 18px;
+    line-height: 25.2px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.our_recent_work p {
+    font-size: 16px;
+    color: #5f5f5f;
+}
+
+
+.wrapper{
+    overflow-x: hidden;
+  }
+  
+  .slick-initialized .slick-slide{
+    color: #FFF;
+    margin: 0 15px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .slick-next, .slick-prev{
+    z-index: 5;
+  }
+  .slick-next{
+    right: 15px;
+  }
+  .slick-prev{
+    left: 15px;
+  }
+  .slick-next:before, .slick-prev:before{
+    color: #000;
+    font-size: 26px;
+  }
+  .slick-dots li button:before {
+    font-size: 12px!important;
+    color: #d7a9a9!important;
+}
+.slick-dots li.slick-active button:before {
+
+    color: #F4A4A4!important;
+}
+.stars img {
+    width: 14px;
+}
+.testimonial_card p {
+    color: #333333;
+    text-align: center;
+    font-size: 16px;
+    line-height: 28.8px;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.profile_card img {
+    width: 90px;
+    height: 90px;
+    margin-bottom: 15px;
+}
+.profile_card h5 {
+    color: #333333;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25.2px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.profile_card h6{
+    color: #ff0000;
+    text-align: center;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500;
+}
+.testimonial_card {
+    text-align: center;
+    background: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+}
+.testimonial_page{
+    background: #FFF5F5;
+}
